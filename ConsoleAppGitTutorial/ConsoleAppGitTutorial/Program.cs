@@ -8,6 +8,7 @@ namespace ConsoleAppGitTutorial
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Merci mon Dieu!");
+            Console.WriteLine("I make this change on my_branch. Hello Git!");
         }
     }
 }
