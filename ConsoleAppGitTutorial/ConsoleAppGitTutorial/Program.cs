@@ -11,6 +11,7 @@ namespace ConsoleAppGitTutorial
             Console.WriteLine("I make this change on my_branch. Hello Git!");
             Console.WriteLine("Nouveau changement dans ma branche!");
             Console.WriteLine("Modification in second branch");
+            Console.WriteLine("Modification dans la première branche pour créer un conflit");
         }
     }
 }
